@@ -1,4 +1,4 @@
-﻿{
+{
     "name": "bentray/Nepalidatepicker",
     "type": "library",
     "description": "Nepali Date Picker control for Yii 2.0",
@@ -14,7 +14,7 @@
         }
     ],
     "require": {
-        "php": ">=5.3.0"
+        "yiisoft/yii2": "*"
     }
     
 }
